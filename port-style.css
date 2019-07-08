@@ -1,0 +1,36 @@
+body {
+    background-image: url('background.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+}
+
+.navbar-dark .navbar-nav .active > .nav-link,
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.jumbotron {
+    color: #ffffff;
+}
+
+.btn-spidey-blue {
+    color: #ffffff;
+    background-color: #447bbe;
+    border-color: #447bbe;
+}
+
+.fa-fw {
+    text-align: center;
+    width: 1.25em;
+    font-size: 1.5em;
+    color: #ffffff;
+}
+
+.jumbotron > a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
