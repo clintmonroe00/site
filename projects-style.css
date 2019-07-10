@@ -1,0 +1,22 @@
+body {
+  background-color: #464646;
+}
+
+.fa-fw {
+  width: 1.25em;
+  text-align: center;
+}
+
+.large {
+  font-size: 1.25em!important;
+  font-weight: 700!important;
+}
+
+.spidey-blue {
+  color: #447bbe!important;
+}
+
+.bg-spidey {
+  background-color: #447bbe!important;
+  color: #ffffff!important;
+}
